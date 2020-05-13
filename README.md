@@ -1,2 +1,2 @@
-# Repositorio
-Primer repositorio de prueba
+# Article
+Repositorio con scripts de R con simulaciones de artículo
